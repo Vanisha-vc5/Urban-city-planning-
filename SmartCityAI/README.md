@@ -318,3 +318,4 @@ MIT License — Free to use, modify, and distribute.
 ---
 
 *SmartCityAI v1.0 — Built for AI/ML Placements 2025–26*
+okay hi hello
